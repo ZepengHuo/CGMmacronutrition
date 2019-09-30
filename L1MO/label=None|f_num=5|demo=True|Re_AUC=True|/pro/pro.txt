@@ -1,0 +1,3 @@
+pro correlation:
+mean 0.2956
+std 0.19623076793845118

@@ -1,0 +1,3 @@
+CHO correlation:
+mean 0.8842
+std 0.0990101582090011
